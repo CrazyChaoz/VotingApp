@@ -1,8 +1,4 @@
-# calender_app
+# VotingApp
 
-A simple Calender
+A simple Voting App
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
